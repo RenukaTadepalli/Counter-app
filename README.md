@@ -1,2 +1,8 @@
-# Counter-app
-I developed a React-based counter application utilizing the useState and useEffect hooks. The app features buttons for increment, decrement, reset, add, and remove operations. An input field allows users to enter numeric values for addition or subtraction. The app demonstrates proficient use of React hooks, event handling, and state management. This project showcases my understanding of React fundamentals and best practices for coding style and organization.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
