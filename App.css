@@ -1,0 +1,56 @@
+.count {
+  background-color: rgb(4, 4, 78);
+}
+.input{
+  padding: 5px 50px;
+}
+.button1 {
+  padding: 5px 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+background-color: green;
+  border: 2px solid white;
+  border-radius: 5px;
+  border-style: dotted;
+  box-shadow: 0 0 5px white;
+}
+.button2 {
+  background-color: yellow;
+  padding: 5px 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  border-style: dotted;
+  box-shadow: 0 0 5px white;
+}
+.button3 {
+  background-color: red;
+  padding: 5px 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  border-style: dotted;
+  box-shadow: 0 0 5px white;
+}
+.button4 {
+  background-color: rgb(226, 50, 109);
+  padding: 5px 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  border-style: dotted;
+  box-shadow: 0 0 5px white;
+}
+.button5 {
+  background-color: rgb(61, 158, 218);
+  padding: 5px 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  border-style: dotted;
+  box-shadow: 0 0 5px white;
+}
