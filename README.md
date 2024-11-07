@@ -1,2 +1,2 @@
 # Counter-app
-"I built a React counter app using useState and useEffect. It features increment, decrement, reset, add and remove buttons. Input field accepts numeric values. Demonstrates React hooks, event handling, and state management. Follows best practices for coding style and organization."
+I developed a React-based counter application utilizing the useState and useEffect hooks. The app features buttons for increment, decrement, reset, add, and remove operations. An input field allows users to enter numeric values for addition or subtraction. The app demonstrates proficient use of React hooks, event handling, and state management. This project showcases my understanding of React fundamentals and best practices for coding style and organization.
